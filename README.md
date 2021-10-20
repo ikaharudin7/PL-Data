@@ -3,7 +3,7 @@
 # Ian Kaharudin, Student ID 1168711
 
 
-This is a project which entails the processing, analysis and visualisations of data obtained from articles from the Premier League football competition. It uses the following dependencies:
+This is a university project which entails the processing, analysis and visualisations of data obtained from articles from the Premier League football competition. It uses the following dependencies:
 
 import numpy as np
 
